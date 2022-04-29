@@ -1,0 +1,27 @@
+{
+  "name": "10teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joalbeva/10teamprofilegenerator"
+  },
+  "keywords": [],
+  "author": "Jorge Bernal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joalbeva/10teamprofilegenerator"
+  },
+  "homepage": ""
+}
