@@ -24,3 +24,7 @@ The Team Profile Generator is a node command line interface that allows a manage
 ##walkthrough video
 
 https://drive.google.com/file/d/17KwY-bs54dNbPdCkpcHL0hRzuwdYn7LV/view
+
+##test video
+
+https://drive.google.com/file/d/1ceDUJn7Ly4sRyB7aRLqcWwxqqORXj7_N/view
