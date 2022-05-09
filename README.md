@@ -20,3 +20,7 @@ The Team Profile Generator is a node command line interface that allows a manage
 2. The user will type <i> node index.js </i> to initiate the team manager's prompt questions. The user will answer each question. Then, will be asked to add a team member.
 3. Once the user has added all members desired and selected 'Done' as their option. The user's input will be added to specific sections of the HTML.
 4. The HTML file will be stored in a folder. When user opens the HTML file, it will display a nicely formatted team roster with contact information based on their input.
+
+##walkthrough video
+
+https://drive.google.com/file/d/17KwY-bs54dNbPdCkpcHL0hRzuwdYn7LV/view
